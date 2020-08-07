@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer
 
-- 🔭 I’m currently working on a [VS Code Course]
+- 🔭 I’m currently working on a LMS System
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: learn python and ml
